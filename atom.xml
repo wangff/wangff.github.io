@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Writing, Thinking and Coding.</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://fei.me/"/>
+  <updated>2019-05-01T06:48:43.812Z</updated>
+  <id>http://fei.me/</id>
+  
+  <author>
+    <name>Fei</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Creative Quote</title>
+    <link href="http://fei.me/2018/05/01/first/"/>
+    <id>http://fei.me/2018/05/01/first/</id>
+    <published>2018-05-01T18:17:15.000Z</published>
+    <updated>2019-05-01T06:48:43.812Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>Stay hungry, stay foolish. </p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;Stay hungry, stay foolish. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
